@@ -19,7 +19,7 @@
         <author href="#" email="roberto.luis1727@gmail.com">
             ravlri
         </author>
-        <icon src="icono.png">
-            <splash src="monito.png">
+        <icon src="img/icono.png" />
+            <splash src="img/monito.png" />
 
     </widget>
